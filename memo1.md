@@ -2,9 +2,9 @@
 ## 1.プログラムを書く拡張子
 ### `.tsx`(TypeScript + JSX)
 Reactの画面と動きを書くファイル。  
-HTMLのようなタグ(<div>,<br>)をプログラムの中に直接かけるのが特徴。  
+HTMLのようなタグ(`<div>,<br>`)をプログラムの中に直接かけるのが特徴。  
 ex. App.tsx,main.tsx
-### `ts`(TypeScript)
+### `.ts`(TypeScript)
 画面の見た目を含まない裏側の処理を書くファイル。  
 API通信の処理や、バックエンド(Hono)、データベースの設計図(Drizzle)などに使う。  
 ex. index.ts,schema.ts  
