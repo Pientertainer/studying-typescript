@@ -26,7 +26,7 @@ ex. app.sqlite
 ex. style.css
 ### `.html`
 Webページの土台となるファイル。  
-Reactでは最初に1枚だけ用意され、その中身を`.tsx`が書き換えて画面を作る。
+Reactでは最初に1枚だけ用意され、その中身を`.tsx`が書き換えて画面を作る。  
 ex. index.html
 ### `.md`
 説明書やメモ書きのファイル。  
